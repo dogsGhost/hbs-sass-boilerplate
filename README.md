@@ -17,9 +17,9 @@ Boilerplate for quick prototyping with Handlebars, jQuery, and Sass. Includes ba
 ## Development
 
 - Install dependencies: `$ npm i`
-- Start development server with live-reloading: `$ gulp dev`
+- Start development server with live-reloading: `$ npm start`
 - Lint your javascript: `$ npm run lint`
 
 ## Build
 
-- Build project to `build/` folder: `$ gulp build`
+- Build project to `build/` folder: `$ npm run build`

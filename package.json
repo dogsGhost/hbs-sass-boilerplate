@@ -1,0 +1,27 @@
+{
+  "name": "hbs-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for quick prototyping with Handlebars, jQuery, and Sass.",
+  "main": "gulpfile.babel.js",
+  "private": true,
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp dev",
+    "lint": "eslint 'src/{helpers,js}/*.js'"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.6",
+    "eslint": "^4.19.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.2.1",
+    "gulp-shell": "^0.6.5",
+    "gulp-sourcemaps": "^2.6.4",
+    "handlebars": "^4.0.11",
+    "run-sequence": "^2.2.1"
+  }
+}

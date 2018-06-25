@@ -10,6 +10,7 @@ Boilerplate for quick prototyping with Handlebars, jQuery, and Sass. Includes ba
   - `helpers/`: Any custom Handlebars helpers you need to create should be placed in this folder.
   - `images/`: Any images you need should be placed in this folder.
   - `js/main.js`: Any javascript that is not a Handlebars helper should go in this file.
+  - `json/`: Any JSON files you need should be placed in this folder.
   - `sass/`: Contains all Sass files.
     - `main.scss`: Write your styles here or import other Sass files into this file.
   - `index.html`: You should only need to edit this if you want to include references to additonal third-party scripts.

@@ -21,7 +21,7 @@
     "gulp-sass": "^3.2.1",
     "gulp-shell": "^0.6.5",
     "gulp-sourcemaps": "^2.6.4",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.0.14",
     "run-sequence": "^2.2.1"
   }
 }
